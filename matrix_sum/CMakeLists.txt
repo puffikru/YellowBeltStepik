@@ -1,0 +1,1 @@
+add_executable(test_matrix_sum matrix_sum.cpp)
