@@ -1,0 +1,1 @@
+add_executable(test_average_temp average_temp2.cpp)
