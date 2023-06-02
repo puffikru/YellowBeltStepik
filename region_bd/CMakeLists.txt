@@ -1,0 +1,1 @@
+add_executable(test_regionbd region_bd.cpp)
