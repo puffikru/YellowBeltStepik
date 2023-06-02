@@ -1,0 +1,1 @@
+add_executable(test_blocks_mass blocks_mass.cpp)
