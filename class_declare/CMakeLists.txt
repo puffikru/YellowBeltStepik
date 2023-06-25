@@ -1,0 +1,1 @@
+add_executable(test_class_declare rectangle.cpp)
