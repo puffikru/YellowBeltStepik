@@ -1,0 +1,1 @@
+add_executable(test_sum_reverse_sort sum_reverse_sort.cpp)
