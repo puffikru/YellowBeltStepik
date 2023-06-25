@@ -1,0 +1,1 @@
+add_executable(test_decompose2 main.cpp)
