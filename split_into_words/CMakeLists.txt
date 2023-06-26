@@ -1,0 +1,1 @@
+add_executable(test_split_into_words split_into_words.cpp)
