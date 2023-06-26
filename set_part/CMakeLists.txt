@@ -1,0 +1,1 @@
+add_executable(test_set_part set_part.cpp)
